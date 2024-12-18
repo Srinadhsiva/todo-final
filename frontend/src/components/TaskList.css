@@ -1,0 +1,28 @@
+.task-list-header{
+    margin : 30px;
+}
+h3,h5{
+    text-align: center ;
+}
+
+.btn{
+    margin-left: 20px;
+}
+
+.card-header{
+    background-color: rgb(226, 221, 221);
+    color: rgb(14, 12, 11);
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    margin-top: 10px; 
+}
+.card{
+    border-color: black;
+}
+.card-body{
+    text-align: center;
+}
